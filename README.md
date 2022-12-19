@@ -5,4 +5,4 @@
 - JAVASCRIPT
 - WORDPRESS
 - PYTHON
-<img src="/assets/img/MarineGEO_logo.png" alt="" style="height: 100px; width:100px;"/>
+<img src="/desktop/img/sf0.jpg" alt="" style="height: 100px; width:100px;"/>
