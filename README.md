@@ -7,20 +7,7 @@
 - 🌱 I’m currently learning **Js framework**
 
 - 👯 I’m looking to collaborate on [gfgdggd](dgfgdgd)
-
-- 🤝 I’m looking for help with [dgfgd](dgdg)
-
-- 👨‍💻 All of my projects are available at [jhjhkh](jhjhkh)
-
-- 📝 I regularly write articles on [jkhkhkjh](jkhkhkjh)
-
-- 💬 Ask me about **react and symfony**
-
 - 📫 How to reach me **miarinaandrianantoaninamr@gmail.com**
-
-- 📄 Know about my experiences [hkjkhkhkh](hkjkhkhkh)
-
-- ⚡ Fun fact **jkljljlkj**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
