@@ -5,8 +5,6 @@
 - 🔭 I’m currently working on [Symfony project](jjkjl)
 
 - 🌱 I’m currently learning **Js framework**
-
-- 👯 I’m looking to collaborate on [gfgdggd](dgfgdgd)
 - 📫 How to reach me **miarinaandrianantoaninamr@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
