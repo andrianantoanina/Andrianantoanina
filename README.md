@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Miarina Andrianantoanina</h1>
-<h3 align="center">A passionate frontend developer from Madagascar</h3>
+<h3 align="center">A passionate fullstack developer from Madagascar</h3>
 
 - 🔭 I’m currently working on [Symfony project](jjkjl)
 
